@@ -1,0 +1,23 @@
+*{
+padding:0;
+margin:0;
+box-sizing:border-box;
+}
+body
+{
+	background:#b4b1b1;
+}
+
+
+div{
+	width: 60%;
+	margin: auto;
+	background-color: azure;
+}
+img
+{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	padding: 10px;
+}
